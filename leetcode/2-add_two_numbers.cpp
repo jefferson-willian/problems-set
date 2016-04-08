@@ -18,7 +18,7 @@ class Solution {
 
       // !Important! I am considering that the list input will have at least one
       // node. This is the case where 0 is represented by a list with one node
-      //  with value 0. If we allow empty lists as input then this will fail.
+      // with value 0. If we allow empty lists as input then this will fail.
       //
       // Sum the first number of both lists and saves the result in the list
       // |head| (The head of the list answer).
