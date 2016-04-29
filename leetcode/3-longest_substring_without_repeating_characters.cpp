@@ -1,5 +1,9 @@
 class Solution {
  public:
+  // Time Complexity  = O(n)
+  // Space Complexity = O(1)
+  //
+  // n : string size.
   int lengthOfLongestSubstring(string s) {
     size_t n = s.size();
 
