@@ -3,7 +3,7 @@ class Solution {
   // Time Complexity  = O(n * h)
   // Space Complexity = O(n) 
   //
-  // n : input size
+  // n : nums size.
   // h : hash lookup average complexity. O(1) best case and O(n) worst case.
   vector<int> twoSum(vector<int>& nums, int target) {
     // Hash the number value to its index in |nums|.
