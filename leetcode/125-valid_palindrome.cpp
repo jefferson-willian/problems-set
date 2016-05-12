@@ -1,7 +1,7 @@
 class Solution {
  public:
   // Time Complexity  = O(n)
-  // Space Complexity = O(1) 
+  // Space Complexity = O(1)
   //
   // n : string size.
   bool isPalindrome(const string& s) {
