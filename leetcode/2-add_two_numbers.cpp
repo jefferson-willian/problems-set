@@ -20,7 +20,7 @@ class Solution {
     // We have three situations where we have to continue add numbers:
     //      - When the first iterator hasn't reached the end of the list.
     //      - When the second iterator hasn't reached the end of the  list.
-    //      - When we have a carry value different than zero.
+    //      - When we have a carry greater than zero from the previous sum.
     while (it1 || it2 || carry > 0) {
       // Get the first and second numbers to sum if the iterators haven't
       // reached the end of the lists, otherwise uses 0 to sum.
