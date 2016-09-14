@@ -5,3 +5,5 @@
 2. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) ([Solution](/leetcode/2-add_two_numbers.cpp))
 
 3. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) ([Solution](/leetcode/3-longest_substring_without_repeating_characters.cpp))
+
+5. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) ([Solution](/leetcode/5-longest_palindromic_substring.cpp))
