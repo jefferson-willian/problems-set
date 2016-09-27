@@ -9,3 +9,13 @@
 4. [Median Of Two Sorted Array](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
 5. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) ([Solution](/leetcode/5-longest_palindromic_substring.cpp))
+
+6. [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)
+
+7. [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+
+8. [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
+
+9. [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+
+10. [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
