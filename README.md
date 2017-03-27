@@ -28,7 +28,7 @@
 
 1. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)
 
-1. [3Sum](https://leetcode.com/problems/3sum)
+1. [3Sum](https://leetcode.com/problems/3sum) ([Solution](/leetcode/15-3sum.com))
 
 1. [3Sum Closest](https://leetcode.com/problems/3sum-closest)
 
