@@ -200,7 +200,7 @@
 
 1. [Same Tree](https://leetcode.com/problems/same-tree) ([Solution](/leetcode/100-same_tree.cpp))
 
-1. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
+1. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) ([Solution](/leetcode/101-symmetric_tree.cpp))
 
 1. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)
 
