@@ -5,6 +5,10 @@ struct MySolution {
 
 class Solution {
  public:
+  // Time Complexity  = O(n)
+  // Space Complexity = O(1)
+  //
+  // n : tree nodes.
   MySolution solve(TreeNode* root) {
     MySolution solution;
 
