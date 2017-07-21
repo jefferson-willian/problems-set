@@ -218,7 +218,7 @@
 
 1. [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)
 
-1. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)
+1. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) ([Solution](/leetcode/110-balanced_binary_tree.cpp))
 
 1. [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)
 
