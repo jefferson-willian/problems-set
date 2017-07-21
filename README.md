@@ -998,3 +998,4 @@
 
 1. [Output Contest Matches](https://leetcode.com/problems/output-contest-matches)
 
+1. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) ([Solution](/leetcode/543-diameter_of_binary_tree.cpp))
