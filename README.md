@@ -186,7 +186,7 @@
 
 1. [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses)
 
-1. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)
+1. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) ([Solution](/leetcode/94-binary_tree_inorder_traversal.cpp))
 
 1. [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii)
 
