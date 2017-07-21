@@ -198,7 +198,7 @@
 
 1. [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree)
 
-1. [Same Tree](https://leetcode.com/problems/same-tree)
+1. [Same Tree](https://leetcode.com/problems/same-tree) ([Solution](/leetcode/100-same_tree.cpp))
 
 1. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
 
