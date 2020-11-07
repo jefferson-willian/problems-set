@@ -1,3 +1,5 @@
+// PROBLEM: [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)
+
 struct MySolution {
   int depth = 0;
   bool balanced = true;
